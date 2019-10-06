@@ -1,0 +1,1 @@
+implement a trading strategy and test to see if it has the potential to be profitable. compute the signal for the time range given and apply it to the dataset to produce projected returns. Finally, perform a statistical test on the mean of the returns to conclude if there is alpha in the signal.
